@@ -60,7 +60,7 @@ python main.py
 
 Output JSON:
 | Topic | Outline | Draft | Critique |
-|-------|--------|--------|--------|--------|--------|--------|
+|-------|--------|--------|--------|
 | 5 Ways to Master Influencer Marketing | Detailed outline generated for the draft | A Draft of about 500 words generated from the outline | A critique analysing the draft on all the important factors and criteria for content generation |
 
 ## Tools Used
@@ -76,3 +76,4 @@ Output JSON:
 
 
 Documented during the Prompt Engineering Course for Prompt Chaining and Content Generation
+
