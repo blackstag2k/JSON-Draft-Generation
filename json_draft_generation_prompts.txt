@@ -1,0 +1,7 @@
+Prompt 1: Generate an outline for a draft for the topic: \n\n{topic}
+
+
+Prompt 2: Generate a draft using the outline generated from prompt 1: \n\n{outline}
+
+
+Prompt 3: Critique the draft generated in prompt 2. Highlight the issues and list out the fixes for them so we can improve this draft: \n\n{draft}
