@@ -30,7 +30,7 @@ K --> L[End]
 
 1. Cloning the repository:
 
-git clone https://github.com/blackstag2k/SEO-Blog-Generation.git
+git clone https://github.com/blackstag2k/JSON-Draft-Generation.git
 
 2. Installing the Dependencies for the project:
 
@@ -76,4 +76,5 @@ Output JSON:
 
 
 Documented during the Prompt Engineering Course for Prompt Chaining and Content Generation
+
 
